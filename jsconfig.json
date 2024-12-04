@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@images/*": ["./src/images/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@components/*": ["./src/components/*"],
+      "@context/*": ["./src/context/*"],
+      "@Mui/*": ["./src/Mui/*"]
+    }
+  }
+}
